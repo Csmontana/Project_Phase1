@@ -4,7 +4,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ClientModule } from './client.module'; // Ensure this path is correct
 
-@NgModule({
+/*@NgModule({
   declarations: [
     AppComponent
   ],
@@ -16,4 +16,4 @@ import { ClientModule } from './client.module'; // Ensure this path is correct
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule { }*/

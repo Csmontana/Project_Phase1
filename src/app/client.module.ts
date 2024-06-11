@@ -5,14 +5,14 @@ import { MeetingComponent } from './meeting/meeting.component';
 
 @NgModule({
   declarations: [
-    ClientFormComponent,
+    //ClientFormComponent,
     MeetingComponent
   ],
   imports: [
     CommonModule
   ],
   exports: [
-    ClientFormComponent,
+    //ClientFormComponent,
     MeetingComponent
   ]
 })
